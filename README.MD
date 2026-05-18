@@ -1,3 +1,4 @@
+<div align="center">
 
 # 🛡️ GemmaShield
 
@@ -6,7 +7,9 @@
 *Stress-test your LLM applications with adversarial agents before attackers do — powered entirely by Gemma 4 running locally via Ollama.*
 
 [![Gemma 4](https://img.shields.io/badge/Model-Gemma%204-FF6B35?style=flat-square)](https://ollama.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GemmaShield-181717?style=flat-square&logo=github)](https://github.com/Abrarceoo/GemmaShield)
 [![Ollama](https://img.shields.io/badge/Inference-Ollama%20Local-black?style=flat-square)](https://ollama.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GemmaShield-181717?style=flat-square&logo=github)](https://github.com/Abrarceoo/GemmaShield)
 [![OWASP](https://img.shields.io/badge/OWASP-LLM%20Top%2010-red?style=flat-square)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/Frontend-React%2018-61DAFB?style=flat-square)](https://react.dev)
@@ -14,6 +17,7 @@
 
 *Submitted to the Kaggle Gemma 4 Good Hackathon · Safety & Trust Track · Ollama Special Prize*
 
+</div>
 
 ---
 
@@ -219,6 +223,7 @@ Tabular log of all battles with OWASP badge, severity, CVSS score, block/breach 
 ## Setup
 
 **Requirements:** Python 3.10+, Node.js 18+, [Ollama](https://ollama.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GemmaShield-181717?style=flat-square&logo=github)](https://github.com/Abrarceoo/GemmaShield)
 
 ```bash
 # 1. Pull Gemma 4
@@ -262,5 +267,8 @@ Gemma 4 via Ollama is not a peripheral feature — it is the entire inference la
 
 ---
 
+<div align="center">
 
-*GemmaShield — Built on Gemma 4 · Runs locally *
+*GemmaShield — Built on Gemma 4 · Runs locally · No cloud required*
+
+</div>
